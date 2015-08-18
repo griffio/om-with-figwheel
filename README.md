@@ -1,6 +1,10 @@
-# om_with_figwheel
+# om with figwheel
 
 Project with om and figwheel
+
+Latest versions
+
+Clojure 1.7
 
 ## Setup
 
@@ -8,7 +12,7 @@ To get an interactive development environment run:
 
 optional:- brew install rlwrap
 
-   rlwrap lein figwheel
+    rlwrap lein figwheel
 
 and open your browser at [localhost:3449](http://localhost:3449/).
 This will auto compile and send all changes to the browser without the

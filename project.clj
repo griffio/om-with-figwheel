@@ -10,8 +10,8 @@
                  [sablono "0.3.6"]
                  [org.omcljs/om "0.8.8"]]
 
-  :plugins [[lein-cljsbuild "1.0.6"]
-            [lein-figwheel "0.3.7"]]
+  :plugins [[lein-cljsbuild "1.1.0"]
+            [lein-figwheel "0.4.0"]]
 
   :source-paths ["src/clj" "src/cljs"]
 
